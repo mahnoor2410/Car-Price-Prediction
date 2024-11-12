@@ -1,1 +1,1 @@
-# This is the Car prediction moeel 
+# This is the Car prediction model 
